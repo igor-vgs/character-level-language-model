@@ -1,0 +1,5 @@
+.vscore/
+.idea/
+__pycache__/
+checkpoints/
+data/
