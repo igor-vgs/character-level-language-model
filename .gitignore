@@ -1,4 +1,4 @@
-.vscore/
+.vscode/
 .idea/
 __pycache__/
 checkpoints/
